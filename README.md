@@ -8,10 +8,10 @@ a single self-contained WebGL2 page, so it also runs in any modern browser.
 
 ## Install in Lively Wallpaper
 
-1. Download or clone this repository.
-2. In Lively, click **+ Add Wallpaper** and drag in `index.html`
-   (or a zip of `index.html`, `LivelyInfo.json` and `LivelyProperties.json`
-   with those files at the top level of the zip).
+1. Download `KaleidoTunnel.zip` from the
+   [latest release](https://github.com/MK-Aziz/kaleido-tunnel-wallpaper/releases/latest).
+2. In Lively, click **+ Add Wallpaper** and drag the zip in.
+   (From a clone, you can drag in `index.html` instead.)
 3. Right-click the wallpaper → **Customise** to change the settings below.
 
 To just look at it, open `index.html` in Chrome or Edge.
