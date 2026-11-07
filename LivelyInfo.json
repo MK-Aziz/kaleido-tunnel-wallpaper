@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.0.0.0",
+  "Title": "Kaleido Tunnel",
+  "Thumbnail": "preview.jpg",
+  "Preview": "",
+  "Desc": "Ray-marched kaleidoscopic neon tunnel with multi-pass bloom (WebGL2).",
+  "Author": "Abdul",
+  "License": "",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
